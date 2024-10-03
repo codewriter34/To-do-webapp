@@ -1,2 +1,2 @@
-# To-do-webapp
-To-do webapp using javascript
+# note-webapp
+note webapp using javascript
